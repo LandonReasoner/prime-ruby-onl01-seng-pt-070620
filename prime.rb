@@ -1,5 +1,5 @@
 # Add  code here!
-def is_prime? (number)
+def prime?(number)
   integer.prime?
   return false if number.integer? == false
   return false if number < 2
