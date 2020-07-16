@@ -1,6 +1,5 @@
 # Add  code here!
 def prime?(number)
-  integer.prime?
   return false if number.integer? == false
   return false if number < 2
   return true if number == 2
